@@ -1,0 +1,43 @@
+.task-form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .task-form h2 {
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  textarea.form-control {
+    min-height: 80px;
+    resize: vertical;
+  }
+  
+  .submit-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: #45a049;
+  }
