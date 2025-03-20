@@ -40,3 +40,5 @@
 DB_USER=seu_usuario
 DB_PASSWORD=sua_senha
 DB_NAME=todo_list_db </pre>
+rodar 
+<pre>docker compose up</pre>
